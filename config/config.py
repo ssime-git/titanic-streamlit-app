@@ -13,8 +13,7 @@ MODEL_VERSION = '0.0.0'
 TARGET = 'survived'
 
 # Features to keep
-KEEP_FEATURES = ['pclass', 'sex', 'age', 
-                'sibsp', 'parch', 'fare', 'cabin','embarked', 'title']
+KEEP_FEATURES = ['pclass', 'sex', 'age', 'sibsp', 'parch', 'fare', 'cabin','embarked', 'title']
 
 # Features to drop (if any)
 #DROP_FEATURES = ['']
