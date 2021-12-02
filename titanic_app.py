@@ -72,8 +72,8 @@ def main():
                                 max_value=float(max_fare), 
                                 key = 1) # number_inpu identifier
 
-        st.write(f'min fare associated with your class: {min_fare}')
-        st.write(f'min fare associated with your class: {max_fare}')
+        st.write(f'The min fare associated with your class: {min_fare}')
+        st.write(f'The min fare associated with your class: {max_fare}')
 
     with col6:
         #st.write('\n')
