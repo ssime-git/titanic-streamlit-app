@@ -1,2 +1,2 @@
-# titanic-streamlit-app
+# titanic-streamlit-simapp
 Streamlit App Demo
