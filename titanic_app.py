@@ -12,6 +12,8 @@ def main():
     """Simple EDA App"""
     st.title("Titanic web App with streamlit")
     st.subheader("Fill the form below please: ")
+    st.write("At its time, the Titanic was both a source a great achievment and a tragedy. Today,\
+                we could still learn from it.")
 
     # importing the sample data:
     df = pd.read_csv(config.TRAIN_FILE)
